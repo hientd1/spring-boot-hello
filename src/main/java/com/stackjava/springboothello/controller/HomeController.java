@@ -10,14 +10,5 @@ public class HomeController {
     public String index() {
         return "index";
     }
-    
-    public Integer getString (int a, int b) {
-    	return b/a;
-    }
-    
-    public int subtract(int firstNumber, int secondNumber) {
-    	Integer myInt = null;
-    	Integer yourInt = myInt * 2;
-    	return firstNumber - secondNumber;
-    }
+
 }
