@@ -10,4 +10,8 @@ public class HomeController {
     public String index() {
         return "index";
     }
+    
+    public Integer getString (int a, int b) {
+    	return b/a;
+    }
 }
