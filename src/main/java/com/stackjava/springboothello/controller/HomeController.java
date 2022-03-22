@@ -11,9 +11,9 @@ public class HomeController {
         return "index";
     }
 
-    public int subtract(int firstNumber, int secondNumber) {
-    	Integer myInt = null;
-    	Integer yourInt = myInt * 2;
-    	return firstNumber - secondNumber;
-    }
+//    public int subtract(int firstNumber, int secondNumber) {
+//    	Integer myInt = null;
+//    	Integer yourInt = myInt * 2;
+//    	return firstNumber - secondNumber;
+//    }
 }
